@@ -24,5 +24,5 @@
 ### 📈 Stats
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=artemlitvin&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Artebah&theme=tokyonight&hide_border=true)](https://git.io/streak-stats" />
 </p>
